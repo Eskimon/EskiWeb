@@ -1,0 +1,35 @@
+PREF=ID=c0b7f8c31bbed033:U=564d9d8af4442bfb:TM=1278445635:LM=1278445644:S=WdQHLVpnJ8MmAJ_-; expires=Thu, 05-Jul-2012 19:47:24 GMT; domain=.google.fr; path=/
+e=TDOIVsCoZCEAAKeFSFoAAABE; expires=Fri, 03-Jul-2020 19:47:34 GMT; domain=.estat.com; path=/
+xtvrn=$456114$; expires=Wed, 06-Jul-2011 19:47:35 GMT; domain=.siteduzero.com; path=/
+xtan=-; expires=Wed, 06-Jul-2011 19:47:35 GMT; domain=.siteduzero.com; path=/
+xtant=1; expires=Wed, 06-Jul-2011 19:47:35 GMT; domain=.siteduzero.com; path=/
+idrxvr=1EFAFD80-BB29-4EC3-AF15-B026EFD11ED2; expires=Fri, 03-Jul-2020 19:47:35 GMT; domain=.xiti.com; path=/
+PREF=ID=3d87472d2c3098c0:TM=1278672249:LM=1278672249:S=iY-sE6woMsDrWSik; expires=Sun, 08-Jul-2012 10:44:09 GMT; domain=.google.com; path=/
+__utmz=199844970.1278672250.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); expires=Fri, 07-Jan-2011 22:44:10 GMT; domain=.univ-angers.fr; path=/
+__utma=199844970.748246728.1278672250.1278674525.1278674917.9; expires=Sun, 08-Jul-2012 11:28:37 GMT; domain=.univ-angers.fr; path=/
+__utmb=199844970.1.10.1278674917; expires=Fri, 09-Jul-2010 11:58:37 GMT; domain=.univ-angers.fr; path=/
+__utma=173272373.1753697188.1278593595.1278775998.1278788960.6; expires=Mon, 09-Jul-2012 19:09:19 GMT; domain=.google.com; path=/mail/help/
+__utmb=173272373.1.10.1278788960; expires=Sat, 10-Jul-2010 19:39:19 GMT; domain=.google.com; path=/mail/help/
+__utmz=173272373.1278788960.6.5.utmcsr=books.google.fr|utmccn=(referral)|utmcmd=referral|utmcct=/bkshp; expires=Sun, 09-Jan-2011 07:09:19 GMT; domain=.google.com; path=/mail/help/
+lo=F6ml5H4uDBTUQLVwQxWdEA; HttpOnly; expires=Tue, 10-Jul-2012 19:50:46 GMT; domain=.facebook.com; path=/
+lxe=supersimondu49%40hotmail.com; HttpOnly; expires=Thu, 04-Nov-2010 13:37:26 GMT; domain=.facebook.com; path=/
+lxs=1; HttpOnly; expires=Thu, 04-Nov-2010 13:37:26 GMT; domain=.facebook.com; path=/
+sct=1278877846; expires=Tue, 10-Aug-2010 19:50:46 GMT; domain=.facebook.com; path=/
+__utmz=173272373.1278878427.1.1.utmcsr=google.fr|utmccn=(referral)|utmcmd=referral|utmcct=/; expires=Mon, 10-Jan-2011 08:00:26 GMT; domain=.google.com; path=/intl/fr_fr/lovefootball/doodle4google/
+__utma=173272373.1863375659.1278878427.1278878427.1278878427.1; expires=Tue, 10-Jul-2012 20:00:26 GMT; domain=.google.com; path=/intl/fr_fr/lovefootball/doodle4google/
+__utmb=173272373.1.10.1278878427; expires=Sun, 11-Jul-2010 20:30:26 GMT; domain=.google.com; path=/intl/fr_fr/lovefootball/doodle4google/
+VISITOR_INFO1_LIVE=4yl94spyQaE; expires=Tue, 08-Mar-2011 20:00:26 GMT; domain=.youtube.com; path=/
+VSFE=RH=5w5; expires=Mon, 11-Jul-2011 20:31:31 GMT; domain=video.google.fr; path=/
+__utmz=173272373.1278880300.7.6.utmcsr=news.google.fr|utmccn=(referral)|utmcmd=referral|utmcct=/nwshp; expires=Mon, 10-Jan-2011 08:31:39 GMT; domain=.google.com; path=/accounts/
+__utma=173272373.1753697188.1278593595.1278788960.1278880300.7; expires=Tue, 10-Jul-2012 20:31:39 GMT; domain=.google.com; path=/accounts/
+__utmb=173272373.1.10.1278880300; expires=Sun, 11-Jul-2010 21:01:39 GMT; domain=.google.com; path=/accounts/
+datr=1278674943-9c6b59eadf690603312140ece450217c4b1771cdcd46e3ce437e9; expires=Tue, 10-Jul-2012 20:31:43 GMT; domain=.facebook.com; path=/
+SNID=36=EVqKEfjE5wfasqQyWR4XQMMsPFNHbY_FWaRAC2nD=kNjbsZrdURHFLQtk; HttpOnly; expires=Sat, 15-Jan-2011 18:23:09 GMT; domain=.google.fr; path=/verify
+NID=36=WFqx50L2onRvLd8dXdRgISTHELSF2Days5dlXcr3lpqpFCfwjA_9b8XnOZTV32daKzhwmfT6JsCpucmLLx54JhZszPr3slaWwxj3nxPs2UsGLyiZNQrUxHrbJToArv_q; HttpOnly; expires=Sat, 15-Jan-2011 18:37:23 GMT; domain=.google.fr; path=/
+__utmz=159330410.1279305636.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=mailto; expires=Sat, 15-Jan-2011 06:40:36 GMT; domain=.arobase.org; path=/
+__utma=159330410.1750538246.1279305635.1279305635.1279305635.1; expires=Sun, 15-Jul-2012 18:40:36 GMT; domain=.arobase.org; path=/
+__utmb=159330410.1.10.1279305635; expires=Fri, 16-Jul-2010 19:10:36 GMT; domain=.arobase.org; path=/
+test_cookie=CheckForPermission; expires=Fri, 16-Jul-2010 18:55:35 GMT; domain=.doubleclick.net; path=/
+uid=4c40a7a476ef6b3b; expires=Wed, 04-Oct-2028 03:19:53 GMT; domain=.addthis.com; path=/
+psc=1; expires=Wed, 04-Oct-2028 03:19:53 GMT; domain=.addthis.com; path=/
+langue=fr; expires=Sun, 17-Jul-2011 13:20:13 GMT; domain=www.simonstuff.pl; path=/

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="logo">icones_prog/EskiNet_Logo.ico</file>
+        <file alias="calendrier">icones_prog/calendrier.png</file>
+        <file alias="empty">icones_prog/empty.png</file>
+    </qresource>
+</RCC>
